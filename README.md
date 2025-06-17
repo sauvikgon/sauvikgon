@@ -49,6 +49,7 @@ Translation Edit Rate system with beam search, LM-aware scoring, and synonym-awa
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sauvikgon&show_icons=true&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sauvikgon&layout=compact&theme=radical)
 
 ---
