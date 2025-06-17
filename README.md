@@ -33,7 +33,7 @@ Tools: Git · VS Code · Postman · Simulink
 ### 🚗 Vehicle Parking App V2
 Modern parking management system with role-based dashboards, async job handling, and smart analytics.  
 Built with Flask, Vue, Redis, and Celery.  
-📎 [Repo Link](https://github.com/your-username/vehicle-parking-app-v2)
+📎 [Repo Link](https://github.com/sauvikgon/vehicle-parking-app-v2)
 
 ### 🌲 CPS Falsification via Decision Trees
 Built a robustness-guided testing framework for Simulink models using Decision Tree analysis.  
@@ -48,8 +48,8 @@ Translation Edit Rate system with beam search, LM-aware scoring, and synonym-awa
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sauvikgon&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sauvikgon&layout=compact&theme=radical)
 
 ---
 
@@ -62,10 +62,10 @@ Translation Edit Rate system with beam search, LM-aware scoring, and synonym-awa
 
 ## 📛 Badges
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=your-username.your-username)
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blueviolet)
-![Followers](https://img.shields.io/github/followers/your-username?label=Follow&style=social)
-![Stars](https://img.shields.io/github/stars/your-username?style=social)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sauvikgon.sauvikgon)
+![Profile Views](https://komarev.com/ghpvc/?username=sauvikgon&color=blueviolet)
+![Followers](https://img.shields.io/github/followers/sauvikgon?label=Follow&style=social)
+![Stars](https://img.shields.io/github/stars/sauvikgon?style=social)
 
 ---
 
