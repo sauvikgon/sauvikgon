@@ -56,7 +56,7 @@ Translation Edit Rate system with beam search, LM-aware scoring, and synonym-awa
 ## 🔥 Contributions
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sauvikgon&theme=radical)](https://git.io/streak-stats)
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=sauvikgon&theme=github-compact)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sauvikgon&theme=github-compact)
 
 ---
 
